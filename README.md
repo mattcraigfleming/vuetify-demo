@@ -1,6 +1,6 @@
 # vuetify-demo
 
-> A Vue.js project
+> A Vue.js/Vuetify Demo https://vuetifyjs.com/en/
 
 ## Build Setup
 
